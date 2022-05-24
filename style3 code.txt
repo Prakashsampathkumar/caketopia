@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+#navbar{
+    position: 0;
+    top: 0;
+    left: 0%;
+    z-index: 100%;
+    padding: .5rem 5rem;
+box-shadow: 5px 5px 20px  rgba(0,0,0,5);
+background:black;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 10;
+    color: #29f700 !important;
+
+}
+#navbarSupportedContents a{
+color: #fff;
+border-bottom: 2px solid transparent;
+
+}
+ a:hover{
+border-bottom: 2px solid #29f700;
+
+}
+ button{
+background: #29f700;
+width: 5rem;
+border-radius: 15px;
+box-shadow: 2px 4px 5px rgba(0,0,0,3)!important;
+}
+section{
+width: 100%;
+min-height: 100vh;
+
+padding: 35px;
+margin-top: 0px;
+text-align: center;
+margin-left: 0px;
+margin-right: 100px;
+justify-content:center;
+align-items: center;
+}
+#home{
+    background-image: url("dod.jpg");
+    image-resolution: 1920px;
+    background-size: cover;
+    background-position:center;
+    color: black;
+
+    
+
+}
+#home h1{
+    
+    color: white;
+    padding-top: 175px;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 0.1ch;
+    text-shadow:0px 1px 0px black;
+    text-shadow:0px 2px 0px black;
+  
+
+}
+#home p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input-group{
+    width: 25%;
+    height: 45px;
+}
+.signin{
+    background:#3bad7ebe!important;
+    color: black!important;
+    box-shadow: 2px 4px 5px rgba(0,0,0,3);
+}
+#About{
+    background-image: url("lg.jpg");
+    
+    width: 100%;
+    background: linear-gradient(to left,#3bad7ebe,#3bad7ebe,100%)
+}
+#About h1{
+    font-weight: 800;
+    font-size: 50px;
+    display: flex;
+    text-align: right;
+    color: white;
+}
+#About p{
+    color: white;
+}
+#Customscakes{
+    background: #e5e5e5;
+    padding-bottom: 15px;
+   
+}
+#Customscakes h1{
+    font-size: 30px;
+    letter-spacing: 2px;
+    
+
+}
+
+.card{
+    width: 350px;
+    box-shadow: 15px 20px 20px rgba(0, 0,0, 3);
+    border-radius:inset 4px 4px 10px white;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 60px;
+}
+#Wedding cakes{
+    background: #e5e5e5;
+    padding-bottom: 15px;
+}
+#Wedding cakes h1{
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.card:hover{
+    box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 3);
+    box-shadow:inset -4px -4px 10px white ;
+    transition: .2s;
+}
+/****contact****/
+.box{
+    width: 80%!important;
+
+    margin-top: 15px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+#BUYNOW input{
+    margin: 10px 0px;
+}
+#BUYNOW textarea{
+    margin: 10px 0px;
+}
+.btn.signin{
+    padding-right: 10px;
+    
+    
+}
+footer{
+   background-color: black;
+   text-align: center;
+   color: white;
+   margin-top: -30px;
+   width: 100%;
+   height: 30px;
+
+
+
+}

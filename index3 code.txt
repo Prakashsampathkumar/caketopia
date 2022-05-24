@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>caketopia</title>
+    <link rel="stylesheet" href="style3.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" >
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark " id="navbar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">caketopia</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a class="nav-link"href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#About">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#Customscakes">Customscakes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#Wedding cakes">Wedding cakes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#cookies">cookies</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#Browniecakes">Browniecakes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"href="#BUYNOW">BUYNOW</a>
+              </li>
+            </ul> 
+            
+            <a href="https://www.google.com/gmail/about/"class="btn btn signin">sign in</a> 
+        </div>
+      </nav>
+
+<section id="home">
+   <h1 class="text-center">Every Cakes Has A Story In Our Life.</h1>
+   <p>Variety of happiness in our life,let's celebrate the moment with flavours of cakes.
+    "If life was a piece of cake, it wouldn’t be worth eating!"</p>
+    <div class="input-group m-4">
+      <input type="text"  class="form-control" placeholder="Email Address">
+      
+      <a href="WWEjpg.jpg"class=" btn signin"> Get started</a> 
+    </div>
+</section>
+
+<section id="About">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-12">
+        <img src="lg.jpg" class="img-fluid">
+        </div>
+        <div class="col-lg-6 col-md-6 col-12 pg-lg-5 p-2">
+          <h1>ABOUT US</h1>
+          <P>
+            There is the bake from a boxed-mix baker. Many also like to add in additional ingredients such as more flour, 
+            eggs, pudding and sugar, to help make the cake denser, create other flavors, or to make hundreds of variations.<br>
+            The cakes are pretty much mixed the same way, use one bowl and mixed following one technique.
+
+            The result is typically light and fluffy, airy and somewhat consistent in texture and look, with a slightly domed top.
+            There are those cake bakers who assemble cake-desserts with already-made store-bought cakes, layering it with fruit and
+            whipped cream or layering it in a glass bowl with fruit sauce and custard. And, some cake bakers are a hybrid of all types – 
+            they bake from scratch.
+          </P>
+          </div>
+        </div>
+          
+        
+
+  </div>
+</section>
+<section id="Customscakes">
+  <div class="container m-5">
+    <h1 class="text-center my-5">TYPES OF CUSTOMSCAKES </h1>
+    <div class="row">
+     <div class="col-lg-4 col-md-4 col-12 ">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="aaa.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">choco Customscakes</h5>
+          <h5>Price:600</h5>
+        
+          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+        </div>
+      </div> 
+      </div>
+      <div class="col-lg-4 col-md-4 col-12 ">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="lgg.jpg" alt="Card image cap">
+          <div class="card-body text-center">
+            <h5 class="card-title">Christmas Customscakes</h5>
+            <h5>Price:800 </h5>
+          
+            <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+          </div>
+        </div> 
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 ">
+          <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="img3.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Birthday Customscakes</h5>
+              <h5>Price:1200</h5>
+            
+              <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+            </div>
+          </div> 
+          </div>
+          <div class="col-lg-4 col-md-4 col-12 ">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="img6.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">fruit Customscakes</h5>
+                <h5>Price:1400</h5>
+              
+                <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+              </div>
+            </div> 
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 ">
+              <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="img19.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">layer Customscakes</h5>
+                  <h5>Price:1200</h5>
+                
+                  <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                </div>
+              </div> 
+              </div>
+              <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="card" style="width: 18rem;">
+                  <img class="card-img-top" src="img11.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">wedding Customscakes</h5>
+                    <h5>Price:1500</h5>
+                  
+                    <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                  </div>
+                </div> 
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                  <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="img14.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Brownie Customscakes</h5>
+                      <h5>Price:80 per piece</h5>
+                    
+                      <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                    </div>
+                  </div> 
+                  </div>  
+                  <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="img7.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title"> ibaco Customscakes</h5>
+                        <h5>Price:1080</h5>
+                      
+                        <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                      </div>
+                    </div> 
+                    </div>      
+                    <div class="col-lg-4 col-md-4 col-12">
+                      <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="img17.jpg" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title"> kit kat Customscakes</h5>
+                          <h5>Price:1000</h5>
+                        
+                          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                        </div>
+                      </div> 
+                      </div>     
+
+
+    </div>
+  </div>
+</section>
+<section id="Wedding cakes">
+  <div class="container m-5">
+    <h1 class="text-center my-5">TYPES OF WEDDINGCAKES </h1>
+    <div class="row">
+     <div class="col-lg-4 col-md-4 col-12 ">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="1img.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">prewedding cakes</h5>
+          <h5>Price:600</h5>
+        
+          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+        </div>
+      </div> 
+      </div>
+      <div class="col-lg-4 col-md-4 col-12 ">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="7img.jpg" alt="Card image cap">
+          <div class="card-body text-center">
+            <h5 class="card-title">post weddingcakes </h5>
+            <h5>Price:800 </h5>
+          
+            <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+          </div>
+        </div> 
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 ">
+          <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="8img.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">layer wedding cakes</h5>
+              <h5>Price:1200</h5>
+            
+              <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+            </div>
+          </div> 
+          </div>
+          <div class="col-lg-4 col-md-4 col-12 ">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="6img.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">suprise weddingcakes</h5>
+                <h5>Price:1400</h5>
+              
+                <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+              </div>
+            </div> 
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 ">
+              <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="9img.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">photowedding cakes</h5>
+                  <h5>Price:1200</h5>
+                
+                  <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                </div>
+              </div> 
+              </div>
+              <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="card" style="width: 18rem;">
+                  <img class="card-img-top" src="6img.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title"> Customs weddingcakes</h5>
+                    <h5>Price:1500</h5>
+                  
+                    <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                  </div>
+                </div> 
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                  <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="7img.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Normalwedding cakes</h5>
+                      <h5>Price:80 per piece</h5>
+                    
+                      <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                    </div>
+                  </div> 
+                  </div>  
+                  <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="8img.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title"> chocalate weddingcakes</h5>
+                        <h5>Price:1080</h5>
+                      
+                        <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                      </div>
+                    </div> 
+                    </div>      
+                    <div class="col-lg-4 col-md-4 col-12">
+                      <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="9img.jpg" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title">  Customs weddingcakes</h5>
+                          <h5>Price:1000</h5>
+                        
+                          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                        </div>
+                      </div> 
+                      </div>     
+
+
+    </div>
+  </div>
+</section>      
+<section id="cookies">
+  <div class="container m-5">
+    <h1 class="text-center my-5">TYPES OF COOKIES</h1>
+    <div class="row">
+     <div class="col-lg-4 col-md-4 col-12 ">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="11img.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">chocolate cookies</h5>
+          <h5>Price:200</h5>
+        
+          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+        </div>
+      </div> 
+      </div>
+      <div class="col-lg-4 col-md-4 col-12 ">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="12img.jpg" alt="Card image cap">
+          <div class="card-body text-center">
+            <h5 class="card-title">chips cookies </h5>
+            <h5>Price:300 </h5>
+          
+            <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+          </div>
+        </div> 
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 ">
+          <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="13img.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">sugar cookies</h5>
+              <h5>Price:150</h5>
+            
+              <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+            </div>
+          </div> 
+          </div>
+          <div class="col-lg-4 col-md-4 col-12 ">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="14img.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Nestle cookies</h5>
+                <h5>Price:140</h5>
+              
+                <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+              </div>
+            </div> 
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 ">
+              <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="15img.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Belgium Choco cookies</h5>
+                  <h5>Price:700</h5>
+                
+                  <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                </div>
+              </div> 
+              </div>
+              <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="card" style="width: 18rem;">
+                  <img class="card-img-top" src="16img.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title"> German Cookies</h5>
+                    <h5>Price:500</h5>
+                  
+                    <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                  </div>
+                </div> 
+              </div>
+              <div class="col-lg-4 col-md-4 col-12">
+                <div class="card" style="width: 18rem;">
+                  <img class="card-img-top" src="17img.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">germantopings cookies</h5>
+                      <h5>Price:100 per piece</h5>
+                    
+                      <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                    </div>
+                  </div> 
+                </div>  
+                <div class="col-lg-4 col-md-4 col-12">
+                  <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="18img.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title"> redvelvet Cookies</h5>
+                        <h5>Price:300</h5>                      
+                        <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                      </div>
+                    </div> 
+                  </div>      
+                  <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="12img.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title"> Frozen Cookies</h5>
+                        <h5>Price:100</h5>
+                        <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                      </div>
+                    </div>
+                  </section> 
+                    
+                   
+
+    </div>
+  </div>
+</section>      
+<section id="Browniecakes">
+  <div class="container m-5">
+    <h1 class="text-center my-5">TYPES OF Browniecakes </h1>
+    <div class="row">
+     <div class="col-lg-4 col-md-4 col-12 ">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="21img.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">chewy Brownie</h5>
+          <h5>Price:100 per piece</h5>
+        
+          <a href=" https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+        </div>
+      </div> 
+      </div>
+      <div class="col-lg-4 col-md-4 col-12 ">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="22img.jpg" alt="Card image cap">
+          <div class="card-body text-center">
+            <h5 class="card-title"> Fudgy Brownie</h5>
+            <h5>Price:150 per piece</h5>
+          
+            <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+          </div>
+        </div> 
+        </div>
+        <div class="col-lg-4 col-md-4 col-12 ">
+          <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="23img.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Cakey Brownie</h5>
+              <h5>Price:120 per piece</h5>
+            
+              <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+            </div>
+          </div> 
+          </div>
+          <div class="col-lg-4 col-md-4 col-12 ">
+            <div class="card" style="width: 18rem;">
+              <img class="card-img-top" src="24img.jpg" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">Mint chocalate Brownie</h5>
+                <h5>Price:140 per piece</h5>
+              
+                <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+              </div>
+            </div> 
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 ">
+              <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="25img.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Blondies Brownie</h5>
+                  <h5>Price:120 per piece</h5>
+                
+                  <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                </div>
+              </div> 
+              </div>
+              <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="card" style="width: 18rem;">
+                  <img class="card-img-top" src="26img.jpg" alt="Card image cap">
+                  <div class="card-body">
+                    <h5 class="card-title">Waalnut Brownie</h5>
+                    <h5>Price:150 per piece</h5>
+                  
+                    <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                  </div>
+                </div> 
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                  <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="27img.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title"> Espresso Brownie</h5>
+                      <h5>Price:80 per piece </h5>
+                    
+                      <a href=" https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                    </div>
+                  </div> 
+                  </div>  
+                  <div class="col-lg-4 col-md-4 col-12">
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" src="28img.jpg" alt="Card image cap">
+                      <div class="card-body">
+                        <h5 class="card-title"> Nutrella Brownie</h5>
+                        <h5>Price:180 per piece</h5>
+                      
+                        <a href=" https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP0lUxE1pic6i4bqymz9GXabR2BF_NEAYXYG0msnHeaJ_Jks_LoZrqRoCB3gQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                      </div>
+                    </div> 
+                    </div>      
+                    <div class="col-lg-4 col-md-4 col-12">
+                      <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="29img.jpg" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title">Strawberry Brownie</h5>
+                          <h5>Price:100  per piece</h5>
+                        
+                          <a href="https://pay.google.com/intl/en_in/about/?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP1iB9ZnHodQpCafaUpj2QPln53yCBGNv272rld-6UtNqVzvECZxZjxoCAuIQAvD_BwE&gclsrc=aw.ds" class="btn btn-primary">BUY NOW</a>
+                        </div>
+                      </div> 
+                      </div>     
+
+
+    </div>
+  </div>
+</section>
+<section id="BUYNOW">
+  <div class="container box">
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-12">
+      <img src="bb.jpg" class="img-fluid">
+      </div>
+      <div class="col-lg-6 col-md-6 col-12 ">
+      <h1>PLACE YOUR ORDER HERE</h1>
+      <form class="mb-3">
+        <input type="text" class="form-control"
+        placeholder="Type your name  ">
+
+        <input type="text" class="form-control"
+        placeholder="Enter your phone number ">
+        <textarea class="form-control"
+        placeholder="choose the fillings you want"></textarea>
+        <input type="text" class="form-control"
+        placeholder="Type the cake you want">
+        
+        <a href="QR_Code.png"class="btn btn signin">BUY NOW</a>      
+       
+        </button>
+
+      </form>
+      </div>
+    </div>
+  </div>
+</section>
+<footer>copyrights @frontendforever since 2022</footer>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" ></script>
+</body>
+</html>
